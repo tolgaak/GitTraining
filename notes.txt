@@ -1,0 +1,3 @@
+remote ile calıstıgın zaman sanma remote icin bir master daha yaratıyor buna origin deniyor
+eger bir dostandan confilct varsa pull yerine fetch dersen onu aynı isimde indirir ama master degil origin branchine indirir
+compate edebilirsin
